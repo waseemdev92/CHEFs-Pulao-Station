@@ -23,8 +23,8 @@ import Reveal from './Reveal';
 
 export const aevrix = {
   name: 'Aevrix AI Technologies',
-  phone: '0314 5155596',
-  wa: '923145155596',
+  phone: '0347 8520705',
+  wa: '923478520705',
   email: 'aevrixtechnologies@gmail.com',
   site: 'https://aevrixai.vercel.app',
 };
